@@ -1,0 +1,31 @@
+#i {
+    display: flex;
+}
+#q {
+    width: 60%;
+    height: 500px;
+}
+#w {
+    height: 20%;
+    background-color: aquamarine;
+}
+#e  {
+    height: 80%;
+    background-color: aqua;
+}
+#t {
+    width: 40%;
+    height: 500px;
+}
+#y {
+    height: 50%;
+    background-color: darkcyan;
+}
+#u {
+    height: 50%;
+    background-color: darkslategray;
+}
+footer {
+    height: 100px;
+    background-color: cornflowerblue;
+}
